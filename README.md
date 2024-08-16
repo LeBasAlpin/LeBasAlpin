@@ -1,6 +1,4 @@
 <div align="center"><img src="header.png"></div>
-
-<h1 align="center">Salut 👋, Je suis Romain</h1>
 <h3 align="center">Un passionné de nouvelles technologies du Sud-Est de la France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lebasalpin&label=Profile%20views&color=0e75b6&style=flat" alt="lebasalpin" /> </p>
